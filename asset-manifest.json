@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/government_cards/static/css/main.dfca195d.chunk.css",
+    "main.js": "/government_cards/static/js/main.3f097e3f.chunk.js",
+    "main.js.map": "/government_cards/static/js/main.3f097e3f.chunk.js.map",
+    "runtime-main.js": "/government_cards/static/js/runtime-main.e699cfad.js",
+    "runtime-main.js.map": "/government_cards/static/js/runtime-main.e699cfad.js.map",
+    "static/js/2.f7ee86d3.chunk.js": "/government_cards/static/js/2.f7ee86d3.chunk.js",
+    "static/js/2.f7ee86d3.chunk.js.map": "/government_cards/static/js/2.f7ee86d3.chunk.js.map",
+    "index.html": "/government_cards/index.html",
+    "precache-manifest.5e4334f4861f0633f7c7754f419b3f24.js": "/government_cards/precache-manifest.5e4334f4861f0633f7c7754f419b3f24.js",
+    "service-worker.js": "/government_cards/service-worker.js",
+    "static/css/main.dfca195d.chunk.css.map": "/government_cards/static/css/main.dfca195d.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e699cfad.js",
+    "static/js/2.f7ee86d3.chunk.js",
+    "static/css/main.dfca195d.chunk.css",
+    "static/js/main.3f097e3f.chunk.js"
+  ]
+}
